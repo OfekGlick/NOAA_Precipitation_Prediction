@@ -6,6 +6,4 @@ The project is split into three parts:
 <li>Data Analysis - Using our stored data to preform evalutations, feature selection and feature engineering on our data in preparation of fitting a model to it. </li>
 <li>Learning - Fitting a few models onto our data and getting final predictions. </li>
 </ol>
-<ul>
-<li>Finding evidence of global warming - Streaming weather data using Kafka, transforming it using PySpark and eventually storing it in MSSQL Database.</li>
-</ul>
+Additionaly, we preformed another task which is finding evidence of global warming.
